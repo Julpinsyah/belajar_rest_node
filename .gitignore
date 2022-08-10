@@ -1,6 +1,7 @@
 # ignore ALL .log files
 *.log
-node_modules
+*.gitignore
 
 # ignore ALL files in ANY directory named temp
 temp/
+node_modules/

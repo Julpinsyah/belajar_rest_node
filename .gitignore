@@ -1,7 +1,9 @@
 # ignore ALL .log files
 *.log
-*.gitignore
 
 # ignore ALL files in ANY directory named temp
-temp/
-node_modules/
+/temp/
+/node_modules/
+
+/.idea
+/.vscode
